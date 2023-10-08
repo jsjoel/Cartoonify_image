@@ -2,13 +2,13 @@
 ## **Description**
 ## **Table of Contents**
 - [General Information](https://github.com/jsjoel/Cartoonify_image#general-information)
-- [Technologies Used](https://github.com/suvarnalaxmi/HospitalManagementSystem#technologies-used)
-- [Features](https://github.com/suvarnalaxmi/HospitalManagementSystem#features)
-- [Setup](https://github.com/suvarnalaxmi/HospitalManagementSystem#setup-)
-- [Project requirements/dependencies](https://github.com/suvarnalaxmi/HospitalManagementSystem#project-requirementsdependencies)
-- [Extentions for Vscode](https://github.com/suvarnalaxmi/HospitalManagementSystem#extentions-for-vscode)
-- [Acknowledgements](https://github.com/suvarnalaxmi/HospitalManagementSystem#acknowledgements)
-- [Contact](https://github.com/suvarnalaxmi/HospitalManagementSystem#contact)
+- [Technologies Used](https://github.com/jsjoel/Cartoonify_image#technologies-used))
+- [Features](https://github.com/jsjoel/Cartoonify_image#features)
+- [Setup](https://github.com/jsjoel/Cartoonify_image#setup-))
+- [Project requirements/dependencies](https://github.com/jsjoel/Cartoonify_image#project-requirementsdependencies)
+- [Extentions for Vscode](https://github.com/jsjoel/Cartoonify_image#extentions-for-vscode)
+- [Acknowledgements](https://github.com/jsjoel/Cartoonify_image#acknowledgements)
+- [Contact](https://github.com/jsjoel/Cartoonify_image#contact)
 
 ## **General Information:**
 
@@ -55,7 +55,6 @@ This project was based on dataflair projects.
 
 ## **Contact**
 
-Created by [Suvarnalaxmi Lambture](https://github.com/suvarnalaxmi),[Laxmipuja Biradar](https://github.com/laxmipuja),
-[Amogh Mhamane](https://github.com/Mhamaneamogh50),[Tanmay Naik](https://github.com/tanmaynaik),[Keshav Phulpagar](https://github.com/Keshavphulpagar)
+Created by [R JOEL SHARON](https://github.com/jsjoel)
 
-Feel free to contact us!
+
