@@ -12,9 +12,9 @@
 
 ## **General Information:**
 
-- Automated cartoonifying effect for input image
-- Input: User-provided
-- Output: processeses the image and applies various image processing methods 
+- Automated cartoonifying effect for input image.
+- Input: User-provided image.
+- Output: processeses the image and applies various image processing methods. 
 
 ## **Technologies Used:**
 
