@@ -1,7 +1,7 @@
 # Cartoonify_Image
 ## **Description**
 ## **Table of Contents**
-- [General Information](https://github.com/jsjoel/Cartoonify_image/edit/main/README.md#general-information)
+- [General Information](https://github.com/jsjoel/Cartoonify_image#general-information)
 - [Technologies Used](https://github.com/suvarnalaxmi/HospitalManagementSystem#technologies-used)
 - [Features](https://github.com/suvarnalaxmi/HospitalManagementSystem#features)
 - [Setup](https://github.com/suvarnalaxmi/HospitalManagementSystem#setup-)
